@@ -75,16 +75,16 @@ You will also see any lint errors in the console.
 ## Contributors
 <table>
   <tr>
-      <td align="center"><a href="https://github.com/krishnadevz/"><img src="https://avatars1.githubusercontent.com/u/42638797?s=460&u=0690dec92c80e9ab0f3b09322272e1cc4cb3ba3f&v=4" width="100px;" alt=""/><br /><sub><b>krishna kakade</b></sub></a><br /><a href="https://github.com/itshally/wb-covid19" title="Reviewed Pull Requests and developer">💻🛠</a> </td>
-     <td align="center"><a href="https://github.com/itshally/"><img src="https://avatars2.githubusercontent.com/u/39101336?s=460&u=dfa8c0109052f69e39b4754279c34cc2a20063a6&v=4" width="100px;" alt=""/><br /><sub><b>Harriette Bianan</b></sub></a><br /><a href="https://github.com/itshally/wb-covid19" title="Reviewed Pull Requests and developer">💻🛠</a> </td>
+      <td align="center"><a href="https://github.com/pratikrk/"><img src="https://avatars.githubusercontent.com/u/83352530?s=400&u=da5ef47b2b75c2bdbc469cdb86ca2c305cedf6ae&v=4" width="100px;" alt=""/><br /><sub><b>Pratik Rathod</b></sub></a><br /><a href="https://github.com/pratikrk" title="Reviewed Pull Requests and developer">💻🛠</a> </td>
+     
   </tr>
     </table>
 
 
 ## Authors
 
-* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
-* **Harriette Bianan** - [itshally](https://github.com/itshally)
+* **Pratik Rathod**  - [krishnadevz](https://github.com/pratikrk)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

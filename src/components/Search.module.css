@@ -1,0 +1,89 @@
+.navbar {
+  background-color: #030303 !important;
+}
+
+.navbar .navbarBrand {
+  color: #fafafa !important;
+}
+
+.searchContainer {
+  padding: 2rem 1.5rem;
+  max-width: 65rem;
+  max-width: 55rem !important;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  background-color: #030303;
+  color: #fafafa !important;
+}
+
+.searchContainer h1 {
+  margin-bottom: 2.5rem;
+  font-size: 3rem;
+  letter-spacing: 3.5px;
+}
+
+.searchContainer form {
+  margin: auto;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+
+}
+
+.searchBtn {
+  width: 100%;
+  border-color: #fafafa !important;
+  background-color: #fafafa !important;
+  color: #030303 !important;
+}
+
+.searchContainer .form-control {
+  color: #fafafa;
+}
+
+.searchContainer input:focus {
+  color: #221d1d !important;
+  box-shadow: none !important;
+  border-color: #fafafa !important;
+}
+
+.imgContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  object-fit: cover;
+  box-sizing: border-box;
+}
+
+.smallPic {
+  height: 15rem !important;
+  width: 15rem !important;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.smallPic:hover {
+  border: 2px solid #fafafa;
+  opacity: 0.6;
+}
+
+.modalImage .__react_modal_image__modal_content img {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.dlBtn {
+  margin: 1rem auto !important;
+  border-color: #fafafa !important;
+}
+
+.dlBtn svg {
+  background-color: transparent !important;
+}
+
+.dlBtn:hover {
+  background-color: #fafafa !important;
+  color: #030303 !important;
+}

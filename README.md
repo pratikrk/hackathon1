@@ -83,7 +83,7 @@ You will also see any lint errors in the console.
 
 ## Authors
 
-* **Pratik Rathod**  - [krishnadevz](https://github.com/pratikrk)
+* **Pratik Rathod**  - [pratikrk](https://github.com/pratikrk)
 
 
 ## License
